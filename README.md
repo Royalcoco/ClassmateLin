@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ClassmateLin</h1>
-<h3 align="center">A backend developer.</h3>
+<h3 align="center">A PHP backend developer.</h3>
 
 - 🌱 I’m currently learning **Rust**
 
